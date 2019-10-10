@@ -51,3 +51,21 @@ telnet localhost 5000
 GET /good HTTP/1.1
 # 戻り値が http://127.0.0.1:5000/good の検証→network→Response Header(view source)と一致する！
 ```
+
+### Flask-SQLAlchemy
+```bash
+# ターミナルで
+flask shell
+>>> from app import db
+>>> db
+<SQLAlchemy engine=sqlite:////home/minorisaito/github/SaitoMinori/potential-tribble/db/sample.db>
+# ⇒これが出ればエンジンが設定できてる
+
+# db ディレクトリを作っておく！sample.db ファイルはなくてOK
+>>>db.create_all()
+>>>exit()
+$ cd db
+$ sqlite3 sample.db
+sqlite> select * from todoitems;
+sqlite> .exit
+```
