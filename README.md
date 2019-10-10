@@ -69,3 +69,13 @@ $ sqlite3 sample.db
 sqlite> select * from todoitems;
 sqlite> .exit
 ```
+
+```bash
+# hello.htmlに追加
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+# 検証 したのターミナルで実行
+foo = $(".hoho")
+foo.text()
+foo.text("jjj")
+```
