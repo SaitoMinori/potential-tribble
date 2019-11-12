@@ -21,8 +21,8 @@ robot test_samples/test_google.robot
 
 ☆ chromedriverを`/usr/local/bin/`にコピーする
 
-[ここからダウンロード](https://chromedriver.chromium.org/downloads)
-[ubuntuでChromeがアップデートされない場合の対応](https://mocabrown.com/blog/archives/5604)
+* [ここからダウンロード](https://chromedriver.chromium.org/downloads)
+* [ubuntuでChromeがアップデートされない場合の対応](https://mocabrown.com/blog/archives/5604)
 
 ### 参考
 
