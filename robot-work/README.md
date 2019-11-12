@@ -24,10 +24,10 @@ robot test_samples/test_google.robot
 [ここからダウンロード](https://chromedriver.chromium.org/downloads)
 [ubuntuでChromeがアップデートされない場合の対応](https://mocabrown.com/blog/archives/5604)
 
-
-
 ### 参考
 
 * [受け入れテストのフレームワークRobot Frameworkで、組込機能であるBuiltin Libraryを使ってみた](https://thinkami.hatenablog.com/entry/2017/07/13/225814)
 * [メモ的な思考的な](https://thinkami.hatenablog.com/entry/2017/09/01/220008)
 * [github](https://github.com/thinkAmi-sandbox/RobotFramework-sample/blob/master/selenium_getting_started/test_selenium.robot)
+* [Robot Framework チートシート](https://robotframework-ja.readthedocs.io/ja/latest/cheatsheet.html)
+* [CSSのセレクタとは？覚えておきたい25種類と書き方](https://saruwakakun.com/html-css/reference/selector)
