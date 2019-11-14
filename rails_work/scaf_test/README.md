@@ -2,7 +2,8 @@
 
 ## 事前準備
 
-[Ubuntu 18.04 に Ruby 環境構築 rbenv インストール](https://mhaya18.hatenablog.com/entry/2018/09/01/090051)
+* [Ubuntu 18.04 に Ruby 環境構築 rbenv インストール](https://mhaya18.hatenablog.com/entry/2018/09/01/090051)
+* [【Rails入門説明書】scaffoldについて解説](https://web-camp.io/magazine/archives/16850)
 
 ```bash
 minorisaito@MDPC0234 ~/github/SaitoMinori/potential-tribble/rails_work (master) 
