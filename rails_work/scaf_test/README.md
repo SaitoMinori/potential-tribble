@@ -62,9 +62,12 @@ gem 'therubyracer'
 # 確認
 
 ```bash
+# 初回のみ
 $ rails generate scaffold User name:string email:string phone:string
 $ rake db:migrate
-$ rails s
 
+# サーバ起動
+minorisaito@MDPC0234 ~/github/SaitoMinori/potential-tribble/rails_work/scaf_test (master)
+$ rails s
 # http://localhost:3000/users
 ```

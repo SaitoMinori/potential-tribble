@@ -12,7 +12,11 @@ pipenv install robotframework robotframework-selenium2library
 robot test_samples/builtin_lib_test.robot 
 
 # GoogleでみんなのPython勉強会を検索する
-robot test_samples/test_google.robot 
+robot test_samples/test_google.robot
+robot test_samples/test_chrome.robot
+
+# rails_work を動かしてみる
+robot test_samples/test_scal.robot
 ```
 
 ### メモ (WebDriverException エラーが発生）
@@ -31,3 +35,4 @@ robot test_samples/test_google.robot
 * [github](https://github.com/thinkAmi-sandbox/RobotFramework-sample/blob/master/selenium_getting_started/test_selenium.robot)
 * [Robot Framework チートシート](https://robotframework-ja.readthedocs.io/ja/latest/cheatsheet.html)
 * [CSSのセレクタとは？覚えておきたい25種類と書き方](https://saruwakakun.com/html-css/reference/selector)
+* [Alert出たときにOKを押す](http://robotframework.org/Selenium2Library/Selenium2Library.html#Handle%20Alert)
