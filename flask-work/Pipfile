@@ -12,6 +12,7 @@ flask = "*"
 url-for = "*"
 flask-sqlalchemy = "*"
 sqlalchemy = "*"
+pymysql = "*"
 
 [requires]
 python_version = "3.7"
