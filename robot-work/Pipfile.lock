@@ -24,6 +24,13 @@
             "index": "pypi",
             "version": "==3.1.2"
         },
+        "robotframework-pythonlibcore": {
+            "hashes": [
+                "sha256:1b311764721b6117d85b0702ab95a7f1d0525d9d3e3433cca02cdbc0010edb55",
+                "sha256:b5b30239086b656e2fb6adbc91e988b9745636bd0d3ff7db2ab0cab43b0621a9"
+            ],
+            "version": "==2.2.1"
+        },
         "robotframework-selenium2library": {
             "hashes": [
                 "sha256:1826b1ce8ccac76f14c4812e2d6df79f52ecda8a3c59c427eea45548c2e22cb1",
@@ -34,10 +41,10 @@
         },
         "robotframework-seleniumlibrary": {
             "hashes": [
-                "sha256:1c57c0a4705aca20fc1404ebe1c21d2da12f4aaeeffd7d3d8a698032d39443cf",
-                "sha256:f45cf8d52265a416cb7f2568ca6201068f178eff9050fab01adde14bb8633314"
+                "sha256:7c8211b870249db53dbb2091a5a36c09aa657f06405d112587d37d33fff7454e",
+                "sha256:f51a0068c6c0d8107ee1120874a3afbf2bbe751fd0782cb86a27a616d9ca30b6"
             ],
-            "version": "==4.1.0"
+            "version": "==5.1.3"
         },
         "selenium": {
             "hashes": [
@@ -48,10 +55,11 @@
         },
         "urllib3": {
             "hashes": [
-                "sha256:3de946ffbed6e6746608990594d08faac602528ac7015ac28d33cee6a45b7398",
-                "sha256:9a107b99a5393caf59c7aa3c1249c16e6879447533d0887f4336dde834c7be86"
+                "sha256:753a0374df26658f99d826cfe40394a686d05985786d946fbe4165b5148f5a7c",
+                "sha256:a7acd0977125325f516bda9735fa7142b909a8d01e8b2e4c8108d0984e6e0098"
             ],
-            "version": "==1.25.6"
+            "index": "pypi",
+            "version": "==1.26.5"
         }
     },
     "develop": {}
